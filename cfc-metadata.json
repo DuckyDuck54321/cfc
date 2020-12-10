@@ -24,7 +24,6 @@
             "contractYear" : "1"
           },
           "rival" : "AUB"
-          "rival" : "LSU"
         },
         {
           "abbreviation" : "TEN",
@@ -47,7 +46,6 @@
             "name" : "Lionel Saiki",
             "contractYear" : "1"
           },
-          "rival" : "LSU"
           "rival" : "UF"
         },
         {
@@ -71,7 +69,6 @@
             "name" : "Dan Mullen",
             "contractYear" : "1"
           },
-          "rival" : "UGA"
           "rival" : "TEN"
         },
         {
@@ -118,7 +115,6 @@
             "name" : "Andre Jablon",
             "contractYear" : "1"
           },
-          "rival" : "TEN"
           "rival" : "UA"
         },
         {
@@ -1213,7 +1209,6 @@
             "contractYear" : "1"
           },
           "rival" : "CLEM"
-          "rival" : "UF"
         },
         {
           "abbreviation" : "CLEM",
